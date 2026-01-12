@@ -154,6 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-*Made with ❤️ by [Satya37x1112](https://github.com/Satya37x1112)*
+*Made with ❤️ by [Satya Sarthak Manohari](https://github.com/Satya37x1112)*
+*Made with ❤️ by [Om Nayak](https://github.com/AnimatrixData)*
 
 </div>
