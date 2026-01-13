@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 UI-UX-2-Frontend
+# UI-UX-2-Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Development-blue?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Development">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>✨ Transforming beautiful Figma designs into pixel-perfect, responsive web experiences ✨</strong>
+  <strong>Transforming beautiful Figma designs into pixel-perfect, responsive web experiences</strong>
 </p>
 
 <p align="center">
@@ -24,20 +24,20 @@
 
 </div>
 
-## 🚀 About This Project
+## About This Project
 
 Welcome to **UI-UX-2-Frontend** – where design meets code! This repository is dedicated to bringing stunning Figma designs to life through modern frontend development. We specialize in creating pixel-perfect implementations that deliver exceptional user experiences across all devices.
 
-## ✨ Features
+## Features
 
-- 🎯 **Pixel-Perfect Implementation** - Faithful recreation of Figma designs
-- 📱 **Responsive Design** - Seamless experience across all devices
-- ⚡ **Performance Optimized** - Fast loading and smooth interactions
-- 🎨 **Modern UI Components** - Reusable and accessible components
-- 🔧 **Clean Code** - Well-structured and maintainable codebase
-- 🌟 **Best Practices** - Following industry standards and patterns
+- **Pixel-Perfect Implementation** - Faithful recreation of Figma designs
+- **Responsive Design** - Seamless experience across all devices
+- **Performance Optimized** - Fast loading and smooth interactions
+- **Modern UI Components** - Reusable and accessible components
+- **Clean Code** - Well-structured and maintainable codebase
+- **Best Practices** - Following industry standards and patterns
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -99,11 +99,11 @@ UI-UX-2-Frontend/
 └── 📄 README.md          # Project documentation
 ```
 
-## 🎯 Projects
+## Projects
 
 <div align="center">
 
-### 🚧 Coming Soon! 🚧
+### Coming Soon! 
 
 *This section will showcase our amazing projects as we build them.*
 
